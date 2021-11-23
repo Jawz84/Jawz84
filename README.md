@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Jos Koelewijn (pronounced Yos Coolawine) and I live in The Netherlands with my wife and three kids.
+My Name is Jos Koelewijn and I live in The Netherlands with my wife and three kids.
 
 ```text
 - 🔭 I’m currently working on Azure platform stuff for customers.
